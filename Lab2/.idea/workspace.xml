@@ -18,7 +18,7 @@
       <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/Resume/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
+            <state relative-caret-position="2784">
               <caret line="96" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="7" />
               <folding />
             </state>
@@ -28,14 +28,24 @@
       <file leaf-file-name="resume1.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/Resume/resume1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="870">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tictactoe.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="withBootstrap.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source/RwdWithBootstar/withBootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tictactoe.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoe.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
@@ -62,7 +72,6 @@
         <option value="$PROJECT_DIR$/bootstrap-solution/bootstrap-solution/bootstrap-prestructure.html" />
         <option value="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm" />
         <option value="$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
-        <option value="$PROJECT_DIR$/Source/RwdWithBootstar/withBootstrap.css" />
         <option value="$PROJECT_DIR$/Source/Resume/resume1.css" />
         <option value="$PROJECT_DIR$/Source/Resume/resume.html" />
         <option value="$PROJECT_DIR$/Source/TicTacToe/tictactoestyle.css" />
@@ -72,6 +81,7 @@
         <option value="$PROJECT_DIR$/Source/TicTacToe/ttt.js" />
         <option value="$PROJECT_DIR$/Source/RwdWithBootstar/input.html" />
         <option value="$PROJECT_DIR$/Source/TicTacToe/tictactoe.html" />
+        <option value="$PROJECT_DIR$/Source/RwdWithBootstar/withBootstrap.css" />
       </list>
     </option>
   </component>
@@ -102,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,6 +194,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -327,11 +337,12 @@
       <workItem from="1497556949808" duration="831000" />
       <workItem from="1497571254370" duration="365000" />
       <workItem from="1498144878364" duration="33437000" />
+      <workItem from="1498185814312" duration="280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40353000" />
+    <option name="totallyTimeSpent" value="40633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="1944" height="1034" extended-state="6" />
@@ -339,12 +350,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4093567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -383,104 +394,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
-    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
-    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
-    <entry file="file://$PROJECT_DIR$/bootstrap-prestructure-done/bootstrap-prestructure.htm" />
-    <entry file="file://$PROJECT_DIR$/bootstrap-solution/bootstrap-solution/bootstrap-prestructure.html" />
-    <entry file="file://$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm" />
-    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
-    <entry file="file://$PROJECT_DIR$/Source/Resume/resume.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoejs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2822">
-          <caret line="218" column="7" lean-forward="false" selection-start-line="218" selection-start-column="7" selection-end-line="218" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoestyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="103" column="1" lean-forward="false" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/ttt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/ttt.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="103" column="1" lean-forward="false" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/ttt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="148" column="5" lean-forward="false" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/tictactoe.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/RwdTaskwithoutBootstrap/input.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="51" column="14" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="51" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/RwdWithBootstar/input.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="41" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/RwdWithBootstar/withBootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/RwdTaskwithoutBootstrap/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="82" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/Resume/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="2784">
           <caret line="96" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="7" />
           <folding />
         </state>
@@ -488,8 +404,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/Resume/resume1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="1218">
           <caret line="42" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-prestructure-done/bootstrap-prestructure.htm" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-solution/bootstrap-solution/bootstrap-prestructure.html" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-input/bootstrap-input.htm" />
+    <entry file="file://$PROJECT_DIR$/Source/Resume/resume.css" />
+    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoejs.js" />
+    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoestyle.css" />
+    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/ttt.html" />
+    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/ttt.css" />
+    <entry file="file://$PROJECT_DIR$/Source/TicTacToe/ttt.js" />
+    <entry file="file://$USER_HOME$/Desktop/tictactoe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/RwdTaskwithoutBootstrap/input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="51" column="14" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/RwdWithBootstar/input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/RwdTaskwithoutBootstrap/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2784">
+          <caret line="96" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -498,6 +471,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Resume/resume1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/RwdWithBootstar/withBootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
