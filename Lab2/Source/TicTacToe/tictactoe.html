@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        .Square{
+            width:40px;
+            height:40px;
+            text-align: center;
+            font-size:18pt;
+            font-weight:bold;
+        }
+    </style>
+        <script>
+
+          function startGame() {
+              document.turn = "X";
+
+              setMessage(document.turn+" get to start.");
+
+          }
+          function setMessage(msg){
+document.getElementById("message").innerText=msg;
+          }
+
+          function nextMove(square){
+              if(square.innerText=="") {
+                  square.innerText = document.turn;
+                  switchTurn();
+              }else{
+                  setMessage("That square is used");
+              }
+          }
+
+          function switchTurn(){
+              if(document.turn=="X"){
+                  document.turn="0";
+              }else{
+                  document.turn="X";
+              }
+                setMessage("It's " + document.turn+"'s turn");
+
+          }
+
+        </script>
+
+</head>
+<body onload="startGame();">
+<h1>TIC TAC TOE</h1>
+<div id="message"> messages will go here"></div>
+<table border="1">
+    <tr>
+        <td id="z1" class="Square" onclick="nextMove(this);"></td>
+        <td id="z2" class="Square" onclick="nextMove(this);"></td>
+        <td id="z3" class="Square" onclick="nextMove(this);"></td>
+    </tr>
+    <tr>
+        <td id="z4" class="Square" onclick="nextMove(this);"></td>
+        <td id="z5" class="Square" onclick="nextMove(this);"></td>
+        <td id="z6" class="Square" onclick="nextMove(this);"></td>
+    </tr>
+    <tr>
+        <td id="z7" class="Square" onclick="nextMove(this);"></td>
+        <td id="z8" class="Square" onclick="nextMove(this);"></td>
+        <td id="z9" class="Square" onclick="nextMove(this);"></td>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,42 @@
+.container{
+    margin-top: 30px;
+}
+nav li {
+
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.col-lg-4 li{
+    background-color: #f5f5f5;
+    list-style-type: none;
+    padding:20px;
+    border:black;
+    color:rgb(153,142,133);
+}
+a{
+    color:black;
+}
+.r{
+    padding-left: 5%;
+}
+.h{
+    padding-left:3.3%;
+}
+.z{
+    display: flex;
+
+}
+.box-1{
+    color: white;
+}
+
+
+.box{
+    flex:1;
+    background: #BCBBBB;
+    height:30px;
+    margin:0;
+    font-family:arial;
+    text-align:center;
+
+}
