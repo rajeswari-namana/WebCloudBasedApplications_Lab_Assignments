@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/Source/Resume/resume.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
-              <caret line="96" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="7" />
+              <caret line="96" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/Source/Resume/resume1.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <caret line="42" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoe.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
-              <caret line="70" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="7" />
+              <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -70,8 +70,8 @@
         <option value="$PROJECT_DIR$/Source/TicTacToe/ttt.html" />
         <option value="$PROJECT_DIR$/Source/TicTacToe/ttt.css" />
         <option value="$PROJECT_DIR$/Source/TicTacToe/ttt.js" />
-        <option value="$PROJECT_DIR$/Source/TicTacToe/tictactoe.html" />
         <option value="$PROJECT_DIR$/Source/RwdWithBootstar/input.html" />
+        <option value="$PROJECT_DIR$/Source/TicTacToe/tictactoe.html" />
       </list>
     </option>
   </component>
@@ -326,15 +326,15 @@
       <workItem from="1497537392523" duration="1313000" />
       <workItem from="1497556949808" duration="831000" />
       <workItem from="1497571254370" duration="365000" />
-      <workItem from="1498144878364" duration="31845000" />
+      <workItem from="1498144878364" duration="33023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38761000" />
+    <option name="totallyTimeSpent" value="39939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="-12" width="1944" height="1034" extended-state="7" />
+    <frame x="-12" y="-12" width="1944" height="1034" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4093567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -482,7 +482,7 @@
     <entry file="file://$PROJECT_DIR$/Source/Resume/resume.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
-          <caret line="96" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="7" />
+          <caret line="96" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -490,7 +490,7 @@
     <entry file="file://$PROJECT_DIR$/Source/Resume/resume1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <caret line="42" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -498,7 +498,7 @@
     <entry file="file://$PROJECT_DIR$/Source/TicTacToe/tictactoe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
-          <caret line="70" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="7" />
+          <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
           <folding />
         </state>
       </provider>
