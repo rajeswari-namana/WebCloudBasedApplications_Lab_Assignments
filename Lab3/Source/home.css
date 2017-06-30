@@ -1,0 +1,26 @@
+/* styling page 3-home page */
+
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: bitter;
+    color: black;
+}
+.container{
+    margin: 100px auto 100px auto;
+    padding: 50px;
+    background-color:rgba(241,241,241,0.5);
+    width:600px;
+    font-family: bitter;
+}
+body{
+
+    background-image: url("1.jpg");
+    background-size: cover;
+}
+h3{
+    color: black;
+}
+p{
+    color: #3e4042 ;
+}

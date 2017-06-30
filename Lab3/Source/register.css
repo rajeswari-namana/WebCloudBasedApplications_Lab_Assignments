@@ -1,0 +1,19 @@
+/* Styling for page 1 - Registration page*/
+
+*[role="form"] {
+    margin: 30px 150px 10px 300px;
+    padding: 50px;
+    background-color:rgba(241,241,241,0.5);
+    width:500px;
+    font-family: bitter;
+}
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: bitter;
+}
+body{
+
+    background-image: url("1.jpg");
+    background-size: cover;
+}
