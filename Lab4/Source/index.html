@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="tetris game angular es6">
+    <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <title>Tetris Game</title>
+</head>
+<body>
+<!-- logic -->
+<div class="t">
+    <h2>Tetris Game</h2>
+    <div ng-app="theModule" ng-controller="mainCtrl" class="special">
+        <div class="app-header">
+            <div class="board-details-area"><div class="pull-right">
+            <h4 ng-hide="tetris.status==&quot;yetToStart&quot;">
+                <span>Score: </span><span ng-bind="tetris.board.score"></span>
+            </h4>
+        </div>
+        </div></div><div class="ful">
+        <h4 ng-show="tetris.status==&quot;yetToStart&quot;">Press Enter to Start Game</h4>
+        <h4 ng-show="tetris.status==&quot;stopped&quot;">Game Over</h4>
+        <div ng-show="tetris.status==&quot;started&quot;" class="on-started"><div class="display-table">
+    <div ng-repeat="row in coords track by $index" class="display-row">
+    <div ng-repeat="datum in row track by $index" ng-class="{&quot;black&quot;:datum==0, &quot;grey&quot;: datum==1, &quot;red&quot;: datum==2}" class="display-cell cell">
+        </div></div></div></div>
+<!-- script tags -->
+        <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.1.0/ui-bootstrap-tpls.min.js"></script>
+        <script src="tetris.js"></script>
+        <script src="app.js"></script>
+        </div>
+    </div>
+    </div>
+    </body>
+</html>
