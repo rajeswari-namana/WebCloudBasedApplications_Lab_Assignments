@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="weatherApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://code.angularjs.org/1.6.0-rc.2/angular.min.js"></script>
+    <script src="https://code.angularjs.org/1.6.0-rc.2/angular-route.min.js"></script>
+    <script src="https://code.angularjs.org/1.6.0-rc.2/angular-resource.min.js"></script>
+    <script src="app.js"></script>
+    <style>
+        #special{
+            text-align: center;
+            background-color: black;
+            padding: 20px;
+            margin-top: 0;
+            color: white;
+        }
+
+
+    </style>
+</head>
+<body>
+
+<h1 id="special">Weather App</h1>
+
+<div class="container">
+
+    <div ng-view>
+    </div>
+</div>
+</body>
+</html>

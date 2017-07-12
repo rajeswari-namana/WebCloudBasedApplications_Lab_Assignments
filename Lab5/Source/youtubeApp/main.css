@@ -1,0 +1,96 @@
+
+body  {
+    background-image: url("http://eskipaper.com/images/music-wallpaper-34.jpg");
+    }
+
+.container {
+    padding: 100px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+/* Form styles */
+
+.entry-label {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#search-entry {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#js-youtube-search-form button {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+/* Result Grid styles */
+
+#search-results {
+    margin-top: 50px;
+    background: #f1f2ed;
+    border: 50px solid #aaa;
+    text-align: center;
+}
+.col {
+    display: inline-block;
+    width: 35%;
+    color: white;
+    padding-bottom: 15px;
+    border: 3px solid #aaa;
+    background: black;
+    text-align: center;
+}
+
+.col:hover {
+    border: 3px solid black;
+}
+
+.row {
+    display: block;
+    padding: 30px;
+}
+
+
+
+.see-more a {
+    color: white;
+    text-decoration: none;
+}
+
+.see-more a:hover {
+    font-weight: bold;
+}
+
+.pagination {
+    padding: 20px;
+}
+
+.pagination button {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.pagination button:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+/* No Result Styles */
+
+#no-results {
+    margin-top: 50px;
+}
+
+#no-results p {
+    font-weight: bold;
+}

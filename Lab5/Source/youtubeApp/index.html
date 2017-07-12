@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>videos</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+<div class="container">
+    <h1>Video-Music App</h1>
+
+    <section id="form-entry">
+        <form id="js-youtube-search-form">
+            <h2>Enter search topic:</h2>
+            <input type="text" name="search-entry" id="search-entry" required>
+            <button type="submit" class="btn btn-default btn-lg">submit</button>
+        </form>
+    </section>
+    <section id="search-results" hidden>
+        <div class="row row-1">
+            <div class="col col-1 result"></div>
+            <div class="col col-2 result"></div>
+
+        </div>
+        <div class="row row-2">
+            <div class="col col-3 result"></div>
+            <div class="col col-4 result"></div>
+
+        </div>
+        <div class="pagination">
+            <button class="btn-previous" disabled>< Previous</button>
+            <button class="btn-next">Next ></button>
+        </div>
+    </section>
+    <section id="no-results" hidden>
+        <p>Sorry, no results were found for your query.</p>
+    </section>
+</div>
+
+<!-- scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="app.js"></script>
+</body>
+
+</html>

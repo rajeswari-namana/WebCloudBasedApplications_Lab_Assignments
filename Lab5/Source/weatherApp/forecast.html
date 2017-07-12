@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<nav class="navbar navbar-light">
+
+                <i class="glyphicon glyphicon-off"></i>
+            </span></a>
+</nav>
+<div class="geo" data-ng-app="geolocation" ng-controller="googlemapoutput">
+    <form>
+        <div class="form-group">
+            <div class="col-xs-3">
+                <input class="form-control" id="startLocation" type="text">
+            </div>
+
+        </div>
+        <button type="submit" ng-click="calcRoute()" class="btn btn-success">Forecast Report</button>
+    </form>
+    <div id="map-canvas" >
+    </div>
+</div>
+</body>
+</html>
