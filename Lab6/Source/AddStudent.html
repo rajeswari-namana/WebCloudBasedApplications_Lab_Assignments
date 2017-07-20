@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Details</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script type="text/javascript">
+        function homeClick(){
+            window.location="home.html";
+        }
+    </script>
+    <style>
+        .jumbotron{
+            margin: 70px;
+            background-color: rgba(238, 238, 238,0.9);
+        }
+        .form-group{
+            margin: 10px 10px;
+            padding: 1px 200px 1px 100px;
+        }
+        h2{
+            text-align: center;
+        }
+        body{
+            background-image: url("https://st2.depositphotos.com/2001403/7044/i/950/depositphotos_70440185-stock-photo-office-desk-mock-up-template.jpg");
+        }
+    </style>
+</head>
+<body ng-app="app" ng-controller="addController">
+<form class="form-horizontal">
+    <div class="jumbotron">
+        <h2>Add New Student Details</h2>
+        <div class="form-group">
+            <label for="inputEmail1" class="col-sm-2 control-label">First Name</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="inputEmail1" placeholder="First Name" name="SFirstName" ng-model="SFirstName">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail2" class="col-sm-2 control-label">Last Name</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="inputEmail2" placeholder="Last Name" name="SLastName" ng-model="SLastName">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Student ID</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="inputEmail3" placeholder="Student ID" name="StudentID" ng-model="StudentID">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail4" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+                <input type="email" class="form-control" id="inputEmail4" placeholder="Email" name="Email" ng-model="Email">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail5" class="col-sm-2 control-label">Subject</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="inputEmail5" placeholder="Subject" name="Subject" ng-model="Subject">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail6" class="col-sm-2 control-label">Grade</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="inputEmail6" placeholder="Grade" name="Grade" ng-model="Grade">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-6 col-sm-6">
+                <button type="submit" class="btn btn-primary">Add New Student</button>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-6 col-sm-6">
+                <button type="button" class="btn btn-primary" onclick="homeClick()">Go Back To Home</button>
+            </div>
+        </div>
+    </div>
+</form>
+<script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular.js"></script>
+<script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular-resource.js"></script>
+<script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular-sanitize.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

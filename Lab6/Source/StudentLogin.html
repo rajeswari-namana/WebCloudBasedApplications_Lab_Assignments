@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Login</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script type="text/javascript">
+        function addClick(){
+            window.location="StudentHome.html";
+        }
+        function successClick() {
+            alert("Successfull, you can sign in now!")
+        }
+    </script>
+    <script src="js/app.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <style>
+        .jumbotron{
+            margin: 100px 200px;
+            background-color: rgba(238, 238, 238,0.9);
+        }
+        .form-group{
+            padding:10px 0px 10px 400px;
+            width: 70%;
+        }
+        h2{
+            text-align: center;
+        }
+        body{
+            background-image: url("https://st2.depositphotos.com/2001403/7044/i/950/depositphotos_70440185-stock-photo-office-desk-mock-up-template.jpg");
+
+        }
+        p{
+            margin: 30px 550px;
+        }
+    </style>
+</head>
+<body ng-app="app">
+<div class="jumbotron">
+    <h2> Student Login</h2>
+    <form class="form-horizontal">
+        <div class="form-group">
+            <h3>Sign-in:</h3>
+            <label>User Name</label><input type="text" class="form-control" ng-model="student.SFirstName">
+            <label>Password</label><input type="text" class="form-control" ng-model="student.Grade">
+        </div>
+        <div class="form-groupclass">
+            <p>
+                <button type="button" class="btn btn-primary" onclick="addClick()">Submit</button>
+            </p>
+        </div >
+        <div class="form-group">
+            <h3>Sign-up:</h3>
+            <label>User Name</label><input type="text" class="form-control">
+            <label>Email</label><input type="email" class="form-control">
+            <label>Password</label><input type="password" class="form-control">
+        </div>
+        <div class="form-groupclass">
+            <p>
+                <button type="button" class="btn btn-primary" onclick="successClick()">Submit</button>
+            </p>
+        </div >
+    </form>
+</div>
+</body>
+</html>
