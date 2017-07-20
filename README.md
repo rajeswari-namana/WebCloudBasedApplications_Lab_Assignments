@@ -11,3 +11,5 @@ Lab 3: https://github.com/rajeswari-namana/WebCloudBasedApplications_Lab_Assignm
 Lab 4: https://github.com/rajeswari-namana/WebCloudBasedApplications_Lab_Assignments/wiki/Lab-4
 
 Lab 5: https://github.com/rajeswari-namana/WebCloudBasedApplications_Lab_Assignments/wiki/Lab-5
+
+Lab 6: https://github.com/rajeswari-namana/WebCloudBasedApplications_Lab_Assignments/wiki/Lab-6
