@@ -44,7 +44,7 @@ app.get('/get', function (req, res) {
     });
 });
 
-// dalating data
+// deleting data
 app.get('/delete/:toBeDeleted_id', function (req, res) {
     MongoClient.connect(url, function (err, db) {
         if (err) {
