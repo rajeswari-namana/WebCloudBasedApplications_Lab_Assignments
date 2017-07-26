@@ -1,0 +1,81 @@
+[
+  {
+    "name": "India",
+    "parent": "INDIA",
+    "children": [
+      {
+        "name": "Telangana",
+        "parent": "INDIA",
+        "children": [
+          {
+            "name": "Districts - 31",
+            "parent": "Telangana"
+          },
+          {
+            "name": "Capital - Hyderabad",
+            "parent": "Telangana"
+          },
+          {
+            "name": "Language spoken - Telugu",
+            "parent": "Telangana"
+          }
+        ]
+      },
+      {
+        "name": "Karnataka",
+        "parent": "INDIA",
+        "children": [
+          {
+            "name": "Districts - 30",
+            "parent": "Karnataka"
+          },
+          {
+            "name": "Capital - Bangalore",
+            "parent": "Karnataka"
+          },
+          {
+            "name": "Language spoken - Kannada",
+            "parent": "Karnataka"
+          }
+        ]
+      },
+      {
+        "name": "Delhi",
+        "parent": "INDIA",
+        "children": [
+          {
+            "name": "Districts - 7",
+            "parent": "Delhi"
+          },
+          {
+            "name": "Capital - Bangalore",
+            "parent": "Delhi"
+          },
+          {
+            "name": "Language spoken - Hindi",
+            "parent": "Delhi"
+          }
+        ]
+      },
+      {
+        "name": "Andhra Pradesh",
+        "parent": "INDIA",
+        "children": [
+          {
+            "name": "Districts - 11",
+            "parent": "Andhra Pradesh"
+          },
+          {
+            "name": "Capital - Hyderabad,Amaravati",
+            "parent": "Andhra Pradesh"
+          },
+          {
+            "name": "Language spoken - Telugu",
+            "parent": "Andhra Pradesh"
+          }
+
+        ]
+      }
+    ]
+  }
+]

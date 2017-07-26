@@ -1,0 +1,79 @@
+{
+    "name": "India",
+    "value": 100,
+    "children": [
+      {
+        "name": "Telangana",
+        "value": 75,
+        "children": [
+          {
+            "name": "Districts - 31",
+            "value": 25
+          },
+          {
+            "name": "Capital - Hyderabad",
+            "value": 25
+          },
+          {
+            "name": "Language spoken - Telugu",
+            "value": 25
+          }
+        ]
+      },
+      {
+        "name": "Karnataka",
+        "value": 75,
+        "children": [
+          {
+            "name": "Districts - 30",
+            "value": 25
+          },
+          {
+            "name": "Capital - Bangalore",
+            "value": 25
+          },
+          {
+            "name": "Language spoken - Kannada",
+            "value": 25
+          }
+        ]
+      },
+      {
+        "name": "Delhi",
+        "value": 75,
+        "children": [
+          {
+            "name": "Districts - 7",
+            "value": 25
+          },
+          {
+            "name": "Capital - Bangalore",
+            "value": 25
+          },
+          {
+            "name": "Language spoken - Hindi",
+            "value": 25
+          }
+        ]
+      },
+      {
+        "name": "Andhra Pradesh",
+        "value": 75,
+        "children": [
+          {
+            "name": "Districts - 11",
+            "value": 25
+          },
+          {
+            "name": "Capital - Hyd,Amaravati",
+            "value": 25
+          },
+          {
+            "name": "Language spoken - Telugu",
+            "value": 25
+          }
+
+        ]
+      }
+    ]
+  }
